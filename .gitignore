@@ -1,0 +1,5 @@
+# local dev artifacts
+__pycache__
+
+# local adhoc scripts / testing
+scratch/
